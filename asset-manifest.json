@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/DTmoney/static/js/main.77d761f2.js",
+    "static/media/logo.svg": "/DTmoney/static/media/logo.614d71d1db9fdf3ca2355f05ed3b0142.svg",
+    "static/media/total.svg": "/DTmoney/static/media/total.e90c2d1e4d0cdd036cc577afd9f496eb.svg",
+    "index.html": "/DTmoney/index.html",
+    "static/media/outcome.svg": "/DTmoney/static/media/outcome.6eb96d3079777422e5bd5deaa688a46e.svg",
+    "static/media/income.svg": "/DTmoney/static/media/income.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
+    "main.77d761f2.js.map": "/DTmoney/static/js/main.77d761f2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.77d761f2.js"
+  ]
+}
